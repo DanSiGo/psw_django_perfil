@@ -1,0 +1,5 @@
+*.txt
+*.pdf
+diagrama_fluxo_django.png
+gabarito_paginas.png
+/venv
